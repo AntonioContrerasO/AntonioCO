@@ -15,7 +15,7 @@ public class JuegoMenu extends JFrame implements ActionListener {
     MusicStuff musicStuff = new MusicStuff("W");
     Game game = new Game();
 
-
+    int x = 0;
     private int count = 0;
 
     public void setCount(int count) {
@@ -67,7 +67,6 @@ public class JuegoMenu extends JFrame implements ActionListener {
             game.reset();
         }
         if (e.getSource() == muteUnMute) {
-            int x = 0;
             if (count == 0) {
                 musicStuff.StopPlaying();
                 x = 1;
@@ -88,6 +87,10 @@ public class JuegoMenu extends JFrame implements ActionListener {
             setCount(x);
         }
 
+    }
+
+    public void setX(int x) {
+        this.x = x;
     }
 }
 

@@ -28,6 +28,7 @@ public class Game extends JFrame implements KeyListener {
     boolean ciclo=true;
     boolean visibleP = false;
     ArrayList<Ball> balls = new ArrayList<>();
+    Cronometro cronometro = new Cronometro();
     Cronometro cronometro2 = new Cronometro();
 
 
@@ -70,14 +71,16 @@ public class Game extends JFrame implements KeyListener {
     {
         super.paint(g);
 
-        //monito.pintar(g);
+        monito.pintar(g);
         for (int i = 0;i<balls.size();i++) {
             balls.get(i).pintar(g);
             balls.get(i).mover();
             balls.get(i).rebotar(800,700);
-            if (cronometro2.tiempo()%8 == 0 && balls.size()<9)
+
+            if (cronometro.tiempo()==8 && balls.size()<9)
             {
                 balls.add(new Ball(130,0));
+                cronometro.setSegundos(0);
             }
             if (monito.getBounds().intersects(balls.get(i).getBounds())&& x!= 0 && y!=0)
             {
@@ -85,7 +88,7 @@ public class Game extends JFrame implements KeyListener {
             }
             tiempo.setText(String.valueOf(cronometro2.tiempo()));
         }
-        //cambioNumColor();
+        cambioNumColor();
     }
 
     public Dimension getPreferredSize()

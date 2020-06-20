@@ -94,6 +94,10 @@ public class Menu implements ActionListener{
             panel.setVisible(true);
             juegoMenu.setVisible(false);
             juegoMenu.musicStuff.StopPlaying();
+            juegoMenu.setCount(0);
+            juegoMenu.setX(1);
+            juegoMenu.muteUnMute.setIcon(new ImageIcon(juegoMenu.i[0].getImage().getScaledInstance(juegoMenu.muteUnMute.getWidth(), juegoMenu.muteUnMute.getHeight(), Image.SCALE_SMOOTH)));
+            juegoMenu.revalidate();
         }
 
     }
