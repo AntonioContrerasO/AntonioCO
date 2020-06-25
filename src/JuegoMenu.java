@@ -1,3 +1,4 @@
+import javax.sound.sampled.Clip;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -18,10 +19,6 @@ public class JuegoMenu extends JFrame implements ActionListener {
     int x = 0;
     private int count = 0;
 
-    public void setCount(int count) {
-        this.count = count;
-    }
-
     public JuegoMenu() {
         back = new MiBoton();
         back.setBounds(0,0,70,70);
@@ -33,7 +30,6 @@ public class JuegoMenu extends JFrame implements ActionListener {
         start = new MiBoton();
         start.setBounds(350,325,100,100);
         ImageIcon i2 = new ImageIcon("src/Imagenes/play.png");
-
         start.setIcon(new ImageIcon(i2.getImage().getScaledInstance(start.getWidth(),start.getHeight(), Image.SCALE_SMOOTH)));
         start.setContentAreaFilled(false);
         start.setBorder(null);
@@ -75,14 +71,10 @@ public class JuegoMenu extends JFrame implements ActionListener {
 
             }
             if (count == 1) {
-                musicStuff.playMusic();
+                musicStuff.playMusic(Clip.LOOP_CONTINUOUSLY);
+                x = 0;
                 muteUnMute.setIcon(new ImageIcon(i[x].getImage().getScaledInstance(muteUnMute.getWidth(), muteUnMute.getHeight(), Image.SCALE_SMOOTH)));
                 revalidate();
-                x = 0;
-            }
-            if (game.visibleP)
-            {
-                this.setVisible(true);
             }
             setCount(x);
         }
@@ -91,6 +83,9 @@ public class JuegoMenu extends JFrame implements ActionListener {
 
     public void setX(int x) {
         this.x = x;
+    }
+    public void setCount(int count) {
+        this.count = count;
     }
 }
 

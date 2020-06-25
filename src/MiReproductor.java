@@ -32,7 +32,7 @@ class MiReproductor
 		{
 			synthe.open();
 			channels = synthe.getChannels();
-			instrumentos = synthe.getLoadedInstruments();
+			this.instrumentos = synthe.getLoadedInstruments();
 		}
 		catch(Exception e)
 		{

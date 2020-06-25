@@ -52,6 +52,7 @@ public class Game extends JFrame implements KeyListener {
 
 
 
+
         monito = new Monito(subImagen);
         monito.setOpaque(false);
         monito.setBounds(490, 402, 64, 64);
@@ -70,14 +71,14 @@ public class Game extends JFrame implements KeyListener {
     public void paint(Graphics g)
     {
         super.paint(g);
-
         monito.pintar(g);
         for (int i = 0;i<balls.size();i++) {
+
             balls.get(i).pintar(g);
             balls.get(i).mover();
-            balls.get(i).rebotar(800,700);
+            balls.get(i).rebotar(1000,700);
 
-            if (cronometro.tiempo()==8 && balls.size()<9)
+            if (cronometro.tiempo()==5 && balls.size()<5)
             {
                 balls.add(new Ball(130,0));
                 cronometro.setSegundos(0);
@@ -137,6 +138,7 @@ public class Game extends JFrame implements KeyListener {
         if (start==1)
         {
             cronometro2.setSegundos(0);
+            cronometro.setSegundos(0);
             balls.add(new Ball(0,0));
             balls.get(0).rebotar(800,700);
         }
@@ -182,6 +184,7 @@ public class Game extends JFrame implements KeyListener {
     {
         balls.clear();
         start = 0;
+        cronometro.setSegundos(0);
         cronometro2.setSegundos(0);
         tiempo.setLocation(950,0);
         tiempo.setForeground(Color.WHITE);

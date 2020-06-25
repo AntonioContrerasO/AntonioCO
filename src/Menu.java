@@ -1,3 +1,4 @@
+import javax.sound.sampled.Clip;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -61,7 +62,7 @@ public class Menu implements ActionListener{
         console.addActionListener(this);
         pianoPanel.back.addActionListener(this);
         juegoMenu.back.addActionListener(this);
-        musicStuff.playMusic();
+        musicStuff.playMusic(Clip.LOOP_CONTINUOUSLY);
 
     }
 
@@ -79,23 +80,22 @@ public class Menu implements ActionListener{
             panel.setVisible(false);
             juegoMenu.setVisible(true);
             musicStuff.StopPlaying();
-            juegoMenu.musicStuff.playMusic();
+            juegoMenu.musicStuff.playMusic(Clip.LOOP_CONTINUOUSLY);
 
         }
         if (e.getSource() == pianoPanel.back)
         {
-            musicStuff.playMusic();
+            musicStuff.playMusic(Clip.LOOP_CONTINUOUSLY);
             panel.setVisible(true);
             pianoPanel.setVisible(false);
         }
         if (e.getSource() == juegoMenu.back)
         {
-            musicStuff.playMusic();
+            musicStuff.playMusic(Clip.LOOP_CONTINUOUSLY);
             panel.setVisible(true);
             juegoMenu.setVisible(false);
             juegoMenu.musicStuff.StopPlaying();
             juegoMenu.setCount(0);
-            juegoMenu.setX(1);
             juegoMenu.muteUnMute.setIcon(new ImageIcon(juegoMenu.i[0].getImage().getScaledInstance(juegoMenu.muteUnMute.getWidth(), juegoMenu.muteUnMute.getHeight(), Image.SCALE_SMOOTH)));
             juegoMenu.revalidate();
         }

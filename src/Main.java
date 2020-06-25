@@ -4,9 +4,7 @@ public class Main {
 
         while (menu.juegoMenu.game.ciclo) {
             menu.juegoMenu.game.repaint();
-            int x = 1;
             try {
-                x = menu.juegoMenu.game.balls.size() * 2;
                 Thread.sleep(20);
             } catch (InterruptedException r) {
                 r.printStackTrace();

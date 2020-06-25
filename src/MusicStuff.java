@@ -7,13 +7,12 @@ public class MusicStuff {
 
     Clip clip;
     String string;
-    int x;
 
     public MusicStuff(String string) {
      this.string = string;
     }
 
-    public void playMusic()
+    public void playMusic(int vueltas)
     {
 
         String musicLocation = "src/Imagenes/"+string+".wav";
@@ -27,7 +26,7 @@ public class MusicStuff {
                 clip = AudioSystem.getClip();
                 clip.open(audioInput);
                 clip.start();
-                clip.loop(Clip.LOOP_CONTINUOUSLY);
+                clip.loop(vueltas);
             }
             else
             {
@@ -40,15 +39,14 @@ public class MusicStuff {
         }
     }
 
+    public void play()
+    {
+        clip.start();
+        clip.loop(1);
+    }
+
     public void StopPlaying()
     {
-        this.x = clip.getFramePosition();
         clip.stop();
-
-    }
-    public void pause()
-    {
-        clip.setMicrosecondPosition(x);
-        clip.start();
     }
 }

@@ -497,6 +497,7 @@ public class Piano extends JFrame implements ActionListener {
                 {
                     m.reproducirNota(contenidoInt.get(x) ,1 ,contenidoDur.get(x));
                 }
+                contenido_1.clear();
 
         }
         if (e.getSource() == this.guardar) {

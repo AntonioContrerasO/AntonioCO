@@ -69,7 +69,6 @@ public class Ball extends JPanel
         }
         subImagen2 = imagen2.getSubimage(0,z, 120, 120);
         g.drawImage(subImagen2,x,y,width,height,null);
-        //g.fill3DRect(x+5,y+5,20,20,true);
     }
 
     public void mover()
@@ -140,15 +139,6 @@ public class Ball extends JPanel
         }
     }
 
-    public void setX(int x) {
-        this.x = x;
-    }
-
-    public void setY(int y) { this.y = y; }
-
-    public void setDir(int dir) {
-        this.dir = dir;
-    }
 
     public int getX() {
         return x;
@@ -156,10 +146,6 @@ public class Ball extends JPanel
 
     public int getY() {
         return y;
-    }
-
-    public int getDir() {
-        return dir;
     }
 
     public Rectangle getBounds()

@@ -26,14 +26,12 @@ class Monito extends JPanel{
             System.out.println("Error al cargar imagen");
         }
     }
-
-
     @Override
     public void paintComponent(Graphics g){
 
         super.paintComponent(g);
         g.drawImage(imagen,0,0,width,height,null);
-        g.fillOval(25,50,35, 10);
+        //g.fillOval(25,50,35, 10);
     }
     public void pintar(Graphics e)
     {
