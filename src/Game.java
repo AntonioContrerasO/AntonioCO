@@ -31,6 +31,9 @@ public class Game extends JFrame implements KeyListener {
     Cronometro cronometro = new Cronometro();
     Cronometro cronometro2 = new Cronometro();
 
+    private int pelotas=5;
+    private int tiempos=10;
+
 
     public Game() {
 
@@ -49,9 +52,6 @@ public class Game extends JFrame implements KeyListener {
         tiempo.setFont(new Font("SansSerif",Font.ITALIC,49));
         tiempo.setForeground(Color.WHITE);
         panel.add(tiempo);
-
-
-
 
         monito = new Monito(subImagen);
         monito.setOpaque(false);
@@ -78,7 +78,7 @@ public class Game extends JFrame implements KeyListener {
             balls.get(i).mover();
             balls.get(i).rebotar(1000,700);
 
-            if (cronometro.tiempo()==5 && balls.size()<5)
+            if (cronometro.tiempo()==tiempos && balls.size()<pelotas)
             {
                 balls.add(new Ball(130,0));
                 cronometro.setSegundos(0);
@@ -140,7 +140,7 @@ public class Game extends JFrame implements KeyListener {
             cronometro2.setSegundos(0);
             cronometro.setSegundos(0);
             balls.add(new Ball(0,0));
-            balls.get(0).rebotar(800,700);
+            balls.get(0).rebotar(1000,700);
         }
         monito.setX(x);
         monito.setY(y+ya);
@@ -174,8 +174,8 @@ public class Game extends JFrame implements KeyListener {
         }
         else if (opciones[opcion]=="Volver al menu")
         {
-            visibleP = true;
             reset();
+            visibleP = true;
         }
         //System.exit(ABORT);
     }
@@ -233,4 +233,11 @@ public class Game extends JFrame implements KeyListener {
         }
     }
 
+    public void setPelotas(int pelotas) {
+        this.pelotas = pelotas;
+    }
+
+    public void setTiempos(int tiempos) {
+        this.tiempos = tiempos;
+    }
 }
