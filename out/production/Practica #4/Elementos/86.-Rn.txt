@@ -1,0 +1,8 @@
+Número atómico:                        86
+Grupo:                                          VIII A: Halógenos
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f14 5d10 6s2 6p6
+Estados de oxidación:               0
+Electronegatividad:                    -
+Radio atómico / pm:                   240
+Masa atómica relativa:              (222)	

@@ -1,0 +1,8 @@
+Número atómico:                        73
+Grupo:                                          V B: Metales pesados
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f14 5d3 6s2
+Estados de oxidación:               +5
+Electronegatividad:                    1.5
+Radio atómico / pm:                   143
+Masa atómica relativa:              180.94.

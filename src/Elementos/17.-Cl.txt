@@ -1,0 +1,8 @@
+Número atómico:                        17
+Grupo:                                          VIIA: Halógenos
+Periodo:                                       3
+Configuración electrónica:        [Ne] 3s2 3p5
+Estados de oxidación:               +1, +3, +5, +7
+Electronegatividad:                    3.16
+Radio atómico / pm:                   99.4
+Masa atómica relativa:              35.45

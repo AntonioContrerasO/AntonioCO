@@ -26,7 +26,7 @@ public class Ball extends JPanel
         this.y = y;
         dir = 1;
         try {
-            imagen2 = ImageIO.read(new File("src/Imagenes/meteorito.png"));
+            imagen2 = ImageIO.read(new File("src/Imagenes/Atomos.png"));
         } catch (Exception e) {
             System.out.println("Error al cargar imagen");
         }

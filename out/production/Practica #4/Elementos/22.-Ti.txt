@@ -1,0 +1,8 @@
+Número atómico:                        22
+Grupo:                                          IVB: Familia del Titanio
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d2 4s2 
+Estados de oxidación:               +2, +3, +4
+Electronegatividad:                    1.54
+Radio atómico / pm:                   144.8
+Masa atómica relativa:              47.87

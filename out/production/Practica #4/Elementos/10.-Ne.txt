@@ -1,0 +1,8 @@
+Número atómico:                        10
+Grupo:                                          VIIIA: Gas Noble
+Periodo:                                       2
+Configuración electrónica:        [He] 2s2 2p6
+Estados de oxidación:               0
+Electronegatividad:                    -
+Radio atómico / pm:                   154
+Masa atómica relativa:              20.18

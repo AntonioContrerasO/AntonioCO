@@ -1,0 +1,8 @@
+Número atómico:                        38
+Grupo:                                          IIA: Alcalinotérreos
+Periodo:                                       5
+Configuración electrónica:        [Kr] 5s2
+Estados de oxidación:               +2
+Electronegatividad:                    0.95
+Radio atómico / pm:                   215.1
+Masa atómica relativa:              87.62

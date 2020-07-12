@@ -1,0 +1,8 @@
+Número atómico:                        1
+Grupo:                                          IA: Metales alcalinos
+Periodo:                                       1
+Configuración electrónica:        1s1
+Estados de oxidación:               -1, +1
+Electronegatividad:                    2.2
+Radio atómico / pm:                   37.3
+Masa atómica relativa:              1.008

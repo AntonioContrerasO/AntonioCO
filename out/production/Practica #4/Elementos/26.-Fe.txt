@@ -1,0 +1,8 @@
+Número atómico:                        26
+Grupo:                                          VIIIB: Familia del Hierro
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d6 4s2 
+Estados de oxidación:               +2, +3
+Electronegatividad:                    1.83
+Radio atómico / pm:                   124.1
+Masa atómica relativa:              55.84

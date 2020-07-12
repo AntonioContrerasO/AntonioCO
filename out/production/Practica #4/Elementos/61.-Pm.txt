@@ -1,0 +1,8 @@
+Número atómico:                        61
+Grupo:                                          IIIB
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f5 6s2
+Estados de oxidación:               +3
+Electronegatividad:                    -
+Radio atómico / pm:                   183.4
+Masa atómica relativa:              (147)	

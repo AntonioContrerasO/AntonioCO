@@ -1,0 +1,8 @@
+Número atómico:                        89
+Grupo:                                          Actínidos
+Periodo:                                       7
+Configuración electrónica:        [Rn] 6d1 7s2
+Estados de oxidación:               +3
+Electronegatividad:                    1.1
+Radio atómico / pm:                   188
+Masa atómica relativa:              227.027

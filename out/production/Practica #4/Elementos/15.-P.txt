@@ -1,0 +1,8 @@
+Número atómico:                        15
+Grupo:                                          VA: Familia del Nitrógeno 
+Periodo:                                       3
+Configuración electrónica:        [He] 3s2 3p3
+Estados de oxidación:               +3, +4, +5
+Electronegatividad:                    2.19
+Radio atómico / pm:                   110.5
+Masa atómica relativa:              30.97

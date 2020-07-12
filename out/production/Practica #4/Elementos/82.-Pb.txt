@@ -1,0 +1,8 @@
+Número atómico:                        82
+Grupo:                                          IV A: Familia del Carbono
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f14 5d10 6s2 6p2
+Estados de oxidación:               +2 +4
+Electronegatividad:                    1.8
+Radio atómico / pm:                   175
+Masa atómica relativa:              207.2

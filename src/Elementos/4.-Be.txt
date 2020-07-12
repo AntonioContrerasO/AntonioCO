@@ -1,0 +1,8 @@
+Número atómico:                        4
+Grupo:                                          IIA: Alcalinotérreos
+Periodo:                                       2
+Configuración electrónica:        [He] 2s2
+Estados de oxidación:               +2
+Electronegatividad:                    1.57
+Radio atómico / pm:                   111.3
+Masa atómica relativa:              9.012

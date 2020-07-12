@@ -1,0 +1,8 @@
+Número atómico:                        85
+Grupo:                                          17
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f14 5d10 6s2 6p5
+Estados de oxidación:               +1 , +3, +5, +7
+Electronegatividad:                    2.2
+Radio atómico / pm:                   145
+Masa atómica relativa:              (210)

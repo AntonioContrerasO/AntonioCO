@@ -1,0 +1,8 @@
+Número atómico:                        6
+Grupo:                                          IVA: Carbonoideos
+Periodo:                                       2
+Configuración electrónica:        [He] 2s2 2p2
+Estados de oxidación:               +2, +4
+Electronegatividad:                    2.55
+Radio atómico / pm:                   77.2
+Masa atómica relativa:              12.01

@@ -1,0 +1,8 @@
+Número atómico:                        110
+Grupo:                                          10: Actínidos
+Periodo:                                       7
+Configuración electrónica:        [Rn] 5f14 6d9 7s1
+Estados de oxidación:               -
+Electronegatividad:                    -
+Radio atómico / pm:                   -
+Masa atómica relativa:              (281)

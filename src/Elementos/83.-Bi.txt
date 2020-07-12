@@ -1,0 +1,8 @@
+Número atómico:                        83
+Grupo:                                          V A: Familia del nitrógeno
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f14 5d10 6s2 6p3
+Estados de oxidación:               +3 +5
+Electronegatividad:                    1.9
+Radio atómico / pm:                   154.5
+Masa atómica relativa:              208.98

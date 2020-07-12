@@ -1,0 +1,8 @@
+Número atómico:                        29
+Grupo:                                          IB: Familia del Cobre
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d10 4s1 
+Estados de oxidación:               +1, +2
+Electronegatividad:                    1.9
+Radio atómico / pm:                   127.8
+Masa atómica relativa:              63.546

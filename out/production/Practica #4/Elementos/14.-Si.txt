@@ -1,0 +1,8 @@
+Número atómico:                        14
+Grupo:                                          IVA: Carbonoideos
+Periodo:                                       3
+Configuración electrónica:        [Ne] 3s2 3p2
+Estados de oxidación:               +2, +4
+Electronegatividad:                    1.9
+Radio atómico / pm:                   117.6
+Masa atómica relativa:              28.08

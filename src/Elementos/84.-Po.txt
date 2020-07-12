@@ -1,0 +1,9 @@
+Número atómico:                        84
+Grupo:                                          VI A: Familia del oxígeno
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f14 5d10 6s2 6p4
+Estados de oxidación:               +2 +4
+Electronegatividad:                    2
+Radio atómico / pm:                   167.3
+Masa atómica relativa:              (209)	
+

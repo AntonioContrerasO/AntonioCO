@@ -1,0 +1,8 @@
+Número atómico:                        51
+Grupo:                                          VA: Familia del Nitrógeno 
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d10 5s2 5p3 
+Estados de oxidación:               +3, +5
+Electronegatividad:                    2.05
+Radio atómico / pm:                   145
+Masa atómica relativa:              121.76

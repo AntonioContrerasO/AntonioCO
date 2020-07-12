@@ -1,0 +1,8 @@
+Número atómico:                        103
+Grupo:                                          3
+Periodo:                                       7
+Configuración electrónica:        [Rn] 5f14 6d1 7s2
+Estados de oxidación:               +3
+Electronegatividad:                    -
+Radio atómico / pm:                   -
+Masa atómica relativa:              (260)

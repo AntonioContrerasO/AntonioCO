@@ -1,0 +1,8 @@
+Número atómico:                        77
+Grupo:                                          VIII B: Metales pesados
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f14 5d7 6s2
+Estados de oxidación:               +2, +3, +4, +6
+Electronegatividad:                    2.2
+Radio atómico / pm:                   135.7
+Masa atómica relativa:              192.2

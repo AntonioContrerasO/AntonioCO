@@ -1,0 +1,8 @@
+Número atómico:                        2
+Grupo:                                          VIIIA: Gas Noble
+Periodo:                                       1
+Configuración electrónica:        1s2
+Estados de oxidación:               0
+Electronegatividad:                    -
+Radio atómico / pm:                   128
+Masa atómica relativa:              4.003

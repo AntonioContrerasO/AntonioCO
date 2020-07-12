@@ -1,0 +1,8 @@
+Número atómico:                        23
+Grupo:                                          VB: Familia del Vanadio
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d3 4s2 
+Estados de oxidación:               +2, +3, +4, +5
+Electronegatividad:                    1.63
+Radio atómico / pm:                   131.1
+Masa atómica relativa:              50.94

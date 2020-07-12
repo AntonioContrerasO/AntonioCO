@@ -1,0 +1,8 @@
+Número atómico:                        81
+Grupo:                                          III A: Familia del Boro
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f14 5d10 6s2 6p1
+Estados de oxidación:               +1 +3 
+Electronegatividad:                    1.8
+Radio atómico / pm:                   170
+Masa atómica relativa:              204.383

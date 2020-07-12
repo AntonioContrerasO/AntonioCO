@@ -1,0 +1,8 @@
+Número atómico:                        92
+Grupo:                                          Actínidos
+Periodo:                                       7
+Configuración electrónica:        [Rn] 5f3 6d1 7s2
+Estados de oxidación:               +3 +4 +5 +6
+Electronegatividad:                    1.7
+Radio atómico / pm:                   138.5
+Masa atómica relativa:              238.02

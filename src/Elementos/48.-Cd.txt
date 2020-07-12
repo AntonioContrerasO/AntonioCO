@@ -1,0 +1,8 @@
+Número atómico:                        48
+Grupo:                                          IIB: Familia del Zinc
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d10 5s2 
+Estados de oxidación:               +2
+Electronegatividad:                    1.69
+Radio atómico / pm:                   148.9
+Masa atómica relativa:              112.40

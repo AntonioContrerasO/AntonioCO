@@ -1,0 +1,8 @@
+Número atómico:                        52
+Grupo:                                          VIA: Familia del Oxígeno
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d10 5s2 5p4 
+Estados de oxidación:               +4, +6 
+Electronegatividad:                    2.1
+Radio atómico / pm:                   143.2
+Masa atómica relativa:              127.60

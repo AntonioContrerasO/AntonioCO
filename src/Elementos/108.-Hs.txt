@@ -1,0 +1,8 @@
+Número atómico:                        108
+Grupo:                                          8
+Periodo:                                       7
+Configuración electrónica:        [Rn] 5f14 6d6 7s2
+Estados de oxidación:               
+Electronegatividad:                    -
+Radio atómico / pm:                   -
+Masa atómica relativa:              (265)

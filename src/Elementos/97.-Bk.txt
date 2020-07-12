@@ -1,0 +1,8 @@
+Número atómico:                        97
+Grupo:                                          Actínidos
+Periodo:                                       7
+Configuración electrónica:        [Rn] 5f9 7s2
+Estados de oxidación:               +3 +4
+Electronegatividad:                    -
+Radio atómico / pm:                   170
+Masa atómica relativa:              (247)

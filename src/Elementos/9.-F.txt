@@ -1,0 +1,8 @@
+Número atómico:                        9
+Grupo:                                          VIIA: Halógenos
+Periodo:                                       2
+Configuración electrónica:        [He] 2s2 2p5
+Estados de oxidación:               -1
+Electronegatividad:                    4
+Radio atómico / pm:                   70.9
+Masa atómica relativa:              19

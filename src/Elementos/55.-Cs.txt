@@ -1,0 +1,8 @@
+Número atómico:                        55
+Grupo:                                          IA: Metales alcalinos
+Periodo:                                       6
+Configuración electrónica:        [Xe] 6s1
+Estados de oxidación:               +1
+Electronegatividad:                    0.79
+Radio atómico / pm:                   265.5
+Masa atómica relativa:              132.905

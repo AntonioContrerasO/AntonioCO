@@ -3,10 +3,9 @@ import java.io.*;
 import java.util.ArrayList;
 
 public class Archivo {
-    public static ArrayList<String> leerTodo(String nombreArchivo) {
+    static ArrayList<String> leerTodo(String nombreArchivo) {
         String strLine = new String();
         ArrayList<String> arraylist = new ArrayList<String>();
-
         try (FileInputStream fis = new FileInputStream(nombreArchivo);
              DataInputStream in = new DataInputStream(fis);
              BufferedReader br = new BufferedReader(new InputStreamReader(in));) {
@@ -24,20 +23,38 @@ public class Archivo {
         }
         //arraylist.remove(arraylist.size()-1); // remover el ultimo elemento, que es null
         return arraylist;
-
     }
+     public static int leerHighScore()
+    {
+        String strLine = new String();
 
-    public static void guardarTodo(String nombre, String informacion) {
-        try {
-            FileOutputStream fos = new FileOutputStream(nombre);
+        try(FileInputStream fis = new FileInputStream("Score.txt");
+        DataInputStream in = new DataInputStream(fis);
+        BufferedReader br = new BufferedReader( new InputStreamReader(in));)
+        {
+            strLine = br.readLine();
+            // in.close();
+        }
+        catch (Exception e ) //Agregar Excepciones
+        {
+        e.printStackTrace();
+        System.exit(1);
+        }
+        //arraylist.remove(arraylist.size()-1); // remover el ultimo elemento, que es null
+        return Integer.parseInt(strLine);
+    }
+        
+    public static void guardarTodo(String nombre,String informacion){
+        try{
+            FileOutputStream fos = new FileOutputStream (nombre);
             BufferedWriter out = new BufferedWriter(new OutputStreamWriter(fos));
             out.write(informacion);
             out.close();
-        } catch (Exception e) //Agregar Excepciones
+        }
+        catch (Exception e) //Agregar Excepciones
         {
             e.printStackTrace();
-            JOptionPane.showMessageDialog(null, "Peto banda", "Error Perro", JOptionPane.ERROR_MESSAGE);
+            JOptionPane.showMessageDialog(null,"Peto banda","Error Perro", JOptionPane.ERROR_MESSAGE);
         }
     }
-
 }

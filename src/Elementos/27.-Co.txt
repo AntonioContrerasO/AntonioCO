@@ -1,0 +1,8 @@
+Número atómico:                        27
+Grupo:                                          VIIIB: Familia del Cobalto
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d7 4s2 
+Estados de oxidación:               +2, +3
+Electronegatividad:                    1.88
+Radio atómico / pm:                   125.3
+Masa atómica relativa:              58.93

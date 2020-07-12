@@ -1,0 +1,8 @@
+Número atómico:                        28
+Grupo:                                          VIIIB: Familia del Níquel
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d8 4s2 
+Estados de oxidación:               +2, +3
+Electronegatividad:                    1.91
+Radio atómico / pm:                   124.6
+Masa atómica relativa:              58.69

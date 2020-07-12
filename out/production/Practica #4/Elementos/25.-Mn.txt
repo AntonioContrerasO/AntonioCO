@@ -1,0 +1,8 @@
+Número atómico:                        25
+Grupo:                                          VIIB: Familia del Manganeso
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d5 4s2 
+Estados de oxidación:               +2, +3, +4, +7
+Electronegatividad:                    1.55
+Radio atómico / pm:                   136.7
+Masa atómica relativa:              54.94

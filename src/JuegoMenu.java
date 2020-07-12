@@ -38,7 +38,7 @@ public class JuegoMenu extends JFrame implements ActionListener {
         back.setBorder(null);
 
         start = new MiBoton();
-        start.setBounds(425,365,100,100);
+        start.setBounds(425,265,100,100);
         ImageIcon i2 = new ImageIcon("src/Imagenes/play.png");
         start.setIcon(new ImageIcon(i2.getImage().getScaledInstance(start.getWidth(),start.getHeight(), Image.SCALE_SMOOTH)));
         start.setContentAreaFilled(false);
@@ -140,12 +140,12 @@ public class JuegoMenu extends JFrame implements ActionListener {
         }
         if (e.getSource() == medio)
         {
-            game.setPelotas(15);
-            game.setTiempos(5);
+            game.setPelotas(20);
+            game.setTiempos(0);
         }
         if (e.getSource() == dificil)
         {
-            game.setPelotas(20);
+            game.setPelotas(100);
             game.setTiempos(0);
 
         }

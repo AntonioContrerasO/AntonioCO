@@ -1,0 +1,8 @@
+Número atómico:                        3
+Grupo:                                          IA: Metales alcalinos
+Periodo:                                       2
+Configuración electrónica:        [He] 2s1
+Estados de oxidación:               +1
+Electronegatividad:                    0.98
+Radio atómico / pm:                   152
+Masa atómica relativa:              6.94

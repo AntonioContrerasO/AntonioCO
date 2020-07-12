@@ -1,0 +1,8 @@
+Número atómico:                        87
+Grupo:                                          I A: Metales alcalinos
+Periodo:                                       7
+Configuración electrónica:        [Rn] 7s1
+Estados de oxidación:               +1
+Electronegatividad:                    0.7
+Radio atómico / pm:                   282
+Masa atómica relativa:              (223)

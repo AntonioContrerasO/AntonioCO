@@ -1,0 +1,8 @@
+Número atómico:                        57
+Grupo:                                          IIIB: Familia del Escandio
+Periodo:                                       6
+Configuración electrónica:        [Xe] 5d1 6s2 
+Estados de oxidación:               +3
+Electronegatividad:                    1.1
+Radio atómico / pm:                   187
+Masa atómica relativa:              138.905

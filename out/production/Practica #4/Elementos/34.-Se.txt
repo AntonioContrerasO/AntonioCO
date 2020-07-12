@@ -1,0 +1,8 @@
+Número atómico:                        34
+Grupo:                                          VIA: Familia del Oxígeno
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d10 4s2 4p4 
+Estados de oxidación:               +4, +6 
+Electronegatividad:                    2.55
+Radio atómico / pm:                   116
+Masa atómica relativa:              78.96

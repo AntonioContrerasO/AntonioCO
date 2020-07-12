@@ -1,0 +1,8 @@
+Número atómico:                        49
+Grupo:                                          IIIA: Familia del Boro
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d10 5s2 5p1
+Estados de oxidación:               +3
+Electronegatividad:                    1.78
+Radio atómico / pm:                   162.6
+Masa atómica relativa:              114.82

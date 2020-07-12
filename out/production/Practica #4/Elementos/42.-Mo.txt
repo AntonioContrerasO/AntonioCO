@@ -1,0 +1,8 @@
+Número atómico:                        42
+Grupo:                                          VIB: Familia del Cromo
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d5 4s1 
+Estados de oxidación:               +3, +4, +5, +6
+Electronegatividad:                    2.16
+Radio atómico / pm:                   136.3
+Masa atómica relativa:              95.94

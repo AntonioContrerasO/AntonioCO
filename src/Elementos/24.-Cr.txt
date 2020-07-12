@@ -1,0 +1,8 @@
+Número atómico:                        24
+Grupo:                                          VIB: Familia del Cromo
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d5 4s1 
+Estados de oxidación:               +2, +3, +6
+Electronegatividad:                    1.66
+Radio atómico / pm:                   124.9
+Masa atómica relativa:              51.996

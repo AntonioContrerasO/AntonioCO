@@ -1,0 +1,8 @@
+Número atómico:                        40
+Grupo:                                          IVB: Familia del Titanio
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d2 5s2 
+Estados de oxidación:               +4
+Electronegatividad:                    1.33
+Radio atómico / pm:                   159
+Masa atómica relativa:              91.224

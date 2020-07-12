@@ -1,0 +1,8 @@
+Número atómico:                        16
+Grupo:                                          VIA: Familia del Oxígeno
+Periodo:                                       3
+Configuración electrónica:        [Ne] 3s2 3p4
+Estados de oxidación:               +4, +6
+Electronegatividad:                    2.58
+Radio atómico / pm:                   103.5
+Masa atómica relativa:              32.064

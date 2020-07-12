@@ -1,0 +1,8 @@
+Número atómico:                        71
+Grupo:                                          III B: Lantánidos
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f14 5d1 6s2
+Estados de oxidación:               +3
+Electronegatividad:                    1
+Radio atómico / pm:                   171.8
+Masa atómica relativa:              174.96

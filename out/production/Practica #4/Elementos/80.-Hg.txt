@@ -1,0 +1,8 @@
+Número atómico:                        80
+Grupo:                                          12
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f14 5d10 6s2
+Estados de oxidación:               +1 +2
+Electronegatividad:                    1.9
+Radio atómico / pm:                   150.3
+Masa atómica relativa:              200.59

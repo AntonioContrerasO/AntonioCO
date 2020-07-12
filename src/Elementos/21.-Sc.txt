@@ -1,0 +1,8 @@
+Número atómico:                        21
+Grupo:                                          IIIB: Familia del Escandio
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d1 4s2 
+Estados de oxidación:               +3
+Electronegatividad:                    1.36
+Radio atómico / pm:                   160.6
+Masa atómica relativa:              44.96

@@ -1,0 +1,8 @@
+Número atómico:                        13
+Grupo:                                          IIIA: Familia del Boro
+Periodo:                                       3
+Configuración electrónica:        [Ne] 3s2 3p1
+Estados de oxidación:               +3
+Electronegatividad:                    1.61
+Radio atómico / pm:                   143.2
+Masa atómica relativa:              26.98

@@ -1,0 +1,8 @@
+Número atómico:                        69 
+Grupo:                                          III B: lantánidos
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f13 6s2
+Estados de oxidación:               +3
+Electronegatividad:                    1.25
+Radio atómico / pm:                   172.4
+Masa atómica relativa:              168.93

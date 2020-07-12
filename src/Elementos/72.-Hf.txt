@@ -1,0 +1,8 @@
+Número atómico:                        72
+Grupo:                                          IV B: Metales pesados
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f14 5d2 6s2
+Estados de oxidación:               +4
+Electronegatividad:                    1.3
+Radio atómico / pm:                   156.4
+Masa atómica relativa:              178.49

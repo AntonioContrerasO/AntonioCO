@@ -1,0 +1,8 @@
+Número atómico:                        63
+Grupo:                                          III B: Lantánidos
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f7 6s2
+Estados de oxidación:               +2 +3
+Electronegatividad:                    -
+Radio atómico / pm:                   199.5
+Masa atómica relativa:              151.96

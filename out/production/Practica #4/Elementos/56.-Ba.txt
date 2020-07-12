@@ -1,0 +1,8 @@
+Número atómico:                        56
+Grupo:                                          IIA: Alcalinotérreos
+Periodo:                                       6
+Configuración electrónica:        [Xe] 6s2
+Estados de oxidación:               +2
+Electronegatividad:                    0.89
+Radio atómico / pm:                   217.4
+Masa atómica relativa:              137.327

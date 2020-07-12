@@ -1,0 +1,8 @@
+Número atómico:                        36
+Grupo:                                          VIIIA: Gas Noble
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d10 4s2 4p6
+Estados de oxidación:               0
+Electronegatividad:                    3
+Radio atómico / pm:                   202
+Masa atómica relativa:              83.798

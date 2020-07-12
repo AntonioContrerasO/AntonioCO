@@ -1,0 +1,8 @@
+Número atómico:                        31
+Grupo:                                          IIIA: Familia del Boro
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d10 4s2 4p1
+Estados de oxidación:               +3
+Electronegatividad:                    1.81
+Radio atómico / pm:                   122.1
+Masa atómica relativa:              69.723

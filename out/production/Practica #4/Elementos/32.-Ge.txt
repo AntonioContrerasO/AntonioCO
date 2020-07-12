@@ -1,0 +1,8 @@
+Número atómico:                        32
+Grupo:                                          IVA: Carbonoideos
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d10 4s2 4p2
+Estados de oxidación:               +2, +4
+Electronegatividad:                    2.01
+Radio atómico / pm:                   122.5
+Masa atómica relativa:       72.64

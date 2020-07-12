@@ -1,0 +1,8 @@
+Número atómico:                        98
+Grupo:                                          Actínidos
+Periodo:                                       7
+Configuración electrónica:        [Rn] 5f10 7s2
+Estados de oxidación:               +3
+Electronegatividad:                    -
+Radio atómico / pm:                   186
+Masa atómica relativa:              (251)

@@ -1,0 +1,8 @@
+Número atómico:                        5
+Grupo:                                          IIIA: Familia del Boro
+Periodo:                                       2
+Configuración electrónica:        [He] 2s2 2p1
+Estados de oxidación:               +3
+Electronegatividad:                    2.04
+Radio atómico / pm:                   79.5
+Masa atómica relativa:              10.806

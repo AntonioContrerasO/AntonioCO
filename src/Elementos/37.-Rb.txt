@@ -1,0 +1,8 @@
+Número atómico:                        37
+Grupo:                                          IA: Metales alcalinos
+Periodo:                                       5
+Configuración electrónica:        [Kr] 5s1
+Estados de oxidación:               +1
+Electronegatividad:                    0.82
+Radio atómico / pm:                   247.5
+Masa atómica relativa:              85.468

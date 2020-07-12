@@ -1,0 +1,8 @@
+Número atómico:                        54
+Grupo:                                          VIIIA: Gas Noble
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d10 5s2 5p6
+Estados de oxidación:               0
+Electronegatividad:                    2.6
+Radio atómico / pm:                   216
+Masa atómica relativa:              131.293

@@ -1,0 +1,8 @@
+Número atómico:                        43
+Grupo:                                          VIIB: Familia del Manganeso
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d5 5s2 
+Estados de oxidación:               +7
+Electronegatividad:                    2.1
+Radio atómico / pm:                   135.2
+Masa atómica relativa:              (98)

@@ -1,0 +1,8 @@
+Número atómico:                        11
+Grupo:                                          IA: Metales alcalinos
+Periodo:                                       3
+Configuración electrónica:        [Ne] 3s1
+Estados de oxidación:               +1
+Electronegatividad:                    0.93
+Radio atómico / pm:                   185.8
+Masa atómica relativa:              22,99

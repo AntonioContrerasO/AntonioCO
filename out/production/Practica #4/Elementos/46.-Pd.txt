@@ -1,0 +1,8 @@
+Número atómico:                        46
+Grupo:                                          VIIIB: Familia del Níquel
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d10
+Estados de oxidación:               +2, +3, +4
+Electronegatividad:                    2.2
+Radio atómico / pm:                   137.6
+Masa atómica relativa:              106.42

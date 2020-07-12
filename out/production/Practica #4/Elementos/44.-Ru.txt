@@ -1,0 +1,8 @@
+Número atómico:                        44
+Grupo:                                          VIIIB: Familia del Hierro
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d7 5s1 
+Estados de oxidación:               +2, +3, +4, +6
+Electronegatividad:                    2.2
+Radio atómico / pm:                   132.5
+Masa atómica relativa:              101.07

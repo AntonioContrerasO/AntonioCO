@@ -1,0 +1,8 @@
+Número atómico:                        39
+Grupo:                                          IIIB: Familia del Escandio
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d1 5s2 
+Estados de oxidación:               +3
+Electronegatividad:                    1.22
+Radio atómico / pm:                   177.6
+Masa atómica relativa:              88.906

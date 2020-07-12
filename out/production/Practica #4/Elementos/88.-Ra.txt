@@ -1,0 +1,8 @@
+Número atómico:                        88
+Grupo:                                          II A: Metales alcalinos
+Periodo:                                       7
+Configuración electrónica:        [Rn] 7s2
+Estados de oxidación:               +2
+Electronegatividad:                    0.9
+Radio atómico / pm:                   235
+Masa atómica relativa:              (226)

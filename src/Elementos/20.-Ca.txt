@@ -1,0 +1,8 @@
+Número atómico:                        20
+Grupo:                                          IIA: Alcalinotérreos
+Periodo:                                       4
+Configuración electrónica:        [Ar] 4s2 
+Estados de oxidación:               +2
+Electronegatividad:                    1
+Radio atómico / pm:                   197.4
+Masa atómica relativa:              40.08

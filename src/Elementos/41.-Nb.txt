@@ -1,0 +1,8 @@
+Número atómico:                        41
+Grupo:                                          VB: Familia del Vanadio
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d4 5s1 
+Estados de oxidación:               +3, +5
+Electronegatividad:                    1.6
+Radio atómico / pm:                   142.9
+Masa atómica relativa:              92.906

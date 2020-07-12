@@ -1,0 +1,8 @@
+Número atómico:                        47
+Grupo:                                          IB: Familia del Cobre
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d10 5s1 
+Estados de oxidación:               +1
+Electronegatividad:                    1.93
+Radio atómico / pm:                   144.5
+Masa atómica relativa:              107.86

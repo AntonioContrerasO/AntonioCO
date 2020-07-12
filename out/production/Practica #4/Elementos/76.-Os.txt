@@ -1,0 +1,8 @@
+Número atómico:                        76
+Grupo:                                          VIII B: Metales pesados
+Periodo:                                       6
+Configuración electrónica:        [Xe] 4f14 5d6 6s2
+Estados de oxidación:               +3 +4
+Electronegatividad:                    2.2
+Radio atómico / pm:                   133.8
+Masa atómica relativa:              190.23

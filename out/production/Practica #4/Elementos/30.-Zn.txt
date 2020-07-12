@@ -1,0 +1,8 @@
+Número atómico:                        30
+Grupo:                                          IIB: Familia del Zinc
+Periodo:                                       4
+Configuración electrónica:        [Ar] 3d10 4s2 
+Estados de oxidación:               +2
+Electronegatividad:                    1.65
+Radio atómico / pm:                   133.5
+Masa atómica relativa:              65.38

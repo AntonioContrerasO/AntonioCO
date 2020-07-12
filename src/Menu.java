@@ -11,7 +11,14 @@ public class Menu implements ActionListener{
     JLabel pianoN;
     JButton console;
     JLabel consoleN;
+    JButton tabla;
+    JLabel tablaN;
 
+
+    int bajar = 20;
+
+
+    TablaPeriodica tablaPeriodica = new TablaPeriodica();
 
     Piano pianoPanel = new Piano();
     MusicStuff musicStuff = new MusicStuff("M");
@@ -23,28 +30,43 @@ public class Menu implements ActionListener{
         panel = new JFrame("Menu principal");
 
         piano = new MiBoton();
-        piano.setBounds(75,250,250,250);
+        piano.setBounds(75,250+bajar,250,250);
         ImageIcon i1 = new ImageIcon("src/Imagenes/piano.png");
         piano.setIcon(new ImageIcon(i1.getImage().getScaledInstance(piano.getWidth(),piano.getHeight(),Image.SCALE_SMOOTH)));
         piano.setContentAreaFilled(false);
         piano.setBorder(null);
         pianoN = new JLabel("TOCAR MUSICA");
-        pianoN.setBounds(100,470,250,25);
+        pianoN.setBounds(100,470+bajar,250,25);
         pianoN.setFont(new Font("SansSerif",Font.PLAIN,24));
         pianoN.setForeground(Color.WHITE);
 
         console = new MiBoton();
-        console.setBounds(450,230,250,250);
+        console.setBounds(450,230+bajar,250,250);
         ImageIcon i2 = new ImageIcon("src/Imagenes/Palanca.png");
         console.setIcon(new ImageIcon(i2.getImage().getScaledInstance(console.getWidth(),console.getHeight(), Image.SCALE_SMOOTH)));
         console.setContentAreaFilled(false);
         console.setBorder(null);
         consoleN = new JLabel("JUGAR");
-        consoleN.setBounds(530,470,150,25);
+        consoleN.setBounds(530,470+bajar,150,25);
         consoleN.setFont(new Font("SansSerif",Font.PLAIN,24));
         consoleN.setForeground(Color.WHITE);
 
+        tabla = new MiBoton();
+        tabla.setBounds(300,0,200,200);
+        ImageIcon i3 = new ImageIcon("src/Imagenes/T.png");
+        tabla.setIcon(new ImageIcon(i3.getImage().getScaledInstance(tabla.getWidth(),tabla.getHeight(),Image.SCALE_SMOOTH)));
+        tabla.setContentAreaFilled(false);
+        tabla.setBorder(null);
+        tablaN = new JLabel("ESTUDIAR");
+        tablaN.setBounds(325,200+bajar,150,25);
+        tablaN.setFont(new Font("SansSerif",Font.PLAIN,24));
+        tablaN.setForeground(Color.WHITE);
+        tablaN.setHorizontalAlignment(SwingConstants.CENTER);
+        tablaN.setVerticalAlignment(SwingConstants.CENTER);
 
+
+        panel.add(tabla);
+        panel.add(tablaN);
         panel.add(piano);
         panel.add(pianoN);
         panel.add(console);
@@ -62,6 +84,8 @@ public class Menu implements ActionListener{
         console.addActionListener(this);
         pianoPanel.back.addActionListener(this);
         juegoMenu.back.addActionListener(this);
+        tabla.addActionListener(this);
+        tablaPeriodica.back.addActionListener(this);
         musicStuff.playMusic(Clip.LOOP_CONTINUOUSLY);
 
     }
@@ -73,7 +97,6 @@ public class Menu implements ActionListener{
             musicStuff.StopPlaying();
             panel.setVisible(false);
             pianoPanel.setVisible(true);
-
         }
         if (e.getSource() == console)
         {
@@ -98,6 +121,16 @@ public class Menu implements ActionListener{
             juegoMenu.setCount(0);
             juegoMenu.muteUnMute.setIcon(new ImageIcon(juegoMenu.i[0].getImage().getScaledInstance(juegoMenu.muteUnMute.getWidth(), juegoMenu.muteUnMute.getHeight(), Image.SCALE_SMOOTH)));
             juegoMenu.revalidate();
+        }
+        if (e.getSource()==tabla)
+        {
+            tablaPeriodica.setVisible();
+            panel.setVisible(false);
+        }
+        if (e.getSource() == tablaPeriodica.back)
+        {
+            panel.setVisible(true);
+            tablaPeriodica.setInvisible();
         }
 
     }

@@ -1,0 +1,8 @@
+Número atómico:                        50
+Grupo:                                          IVA: Carbonoideos
+Periodo:                                       5
+Configuración electrónica:        [Kr] 4d10 5s2 5p2
+Estados de oxidación:               +2, +4
+Electronegatividad:                    1.96
+Radio atómico / pm:                   140.5
+Masa atómica relativa:              118.69

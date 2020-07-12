@@ -1,0 +1,8 @@
+Número atómico:                        8
+Grupo:                                          VIA: Familia del Oxígeno
+Periodo:                                       2
+Configuración electrónica:        [He] 2s2 2p4
+Estados de oxidación:               -2
+Electronegatividad:                    3.44
+Radio atómico / pm:                   60.4
+Masa atómica relativa:              16

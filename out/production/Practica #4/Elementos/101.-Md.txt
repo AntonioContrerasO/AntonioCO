@@ -1,0 +1,8 @@
+Número atómico:                        101
+Grupo:                                          Actínidos
+Periodo:                                       7
+Configuración electrónica:        [Rn] 5f13 7s2
+Estados de oxidación:               +2 +3
+Electronegatividad:                    1.3
+Radio atómico / pm:                   200
+Masa atómica relativa:              (258)

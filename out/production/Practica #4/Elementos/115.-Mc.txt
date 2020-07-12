@@ -1,0 +1,8 @@
+Número atómico:                        115
+Grupo:                                          15: Actínidos
+Periodo:                                       7
+Configuración electrónica:        [Rn] 5f14 6d10 7s2 7p3
+Estados de oxidación:               -
+Electronegatividad:                    -
+Radio atómico / pm:                   -
+Masa atómica relativa:              (288)            
